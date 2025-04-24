@@ -1,0 +1,16 @@
+BOM:
+- 1 x T8 Lead Screw (>= 190 mm)
+- 1 x T8 Lead screw nut
+- 1 x NEMA17 stepper motor
+- 1 x Flexible shaft coupler (5mm to 8mm)
+- 2 x LM8UU Linear bearings
+- 2 x 8 mm OD x 220 mm metal rods
+- 2 x Endstop switches
+- 4 x M3x25mm Screws
+- 4 x M3x15mm Screws
+- 14 x M3x10mm Screws
+- 2 x M3x35 Hex bolts (can be substituted with a standard M3 screw of similar length + M3 nut)
+- 4 x M3x30 Hex bolts (can be substituted with a standard M3 screw of similar length + M3 nut)e
+- 4 x M2.5x10mm Screws
+- 24 x M3 Nuts
+- 4 x M2.5 Nuts
